@@ -4,7 +4,7 @@
 
 ScholarPath is a modern web application designed to help students discover, track, and manage scholarship opportunities with ease. Built with **Next.js**, **Supabase**, and **Tailwind CSS**, it provides a seamless experience from discovery to application.
 
-## ✨ Key Features
+## ✨  Key Features
 
 - **🚀 Smart Matching**: Profile-based scholarship recommendations.
 - **🛡️ Secure Auth**: Username-based login backed by Supabase Auth.
