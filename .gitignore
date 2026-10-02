@@ -14,3 +14,13 @@ next.user-config.*
 node_modules
 .next/
 .DS_Store
+
+# Build output (regenerated on deploy)
+out/
+
+# TypeScript build cache
+tsconfig.tsbuildinfo
+
+# Misc
+*.log
+Thumbs.db
